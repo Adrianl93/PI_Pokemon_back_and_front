@@ -1,13 +1,13 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# Individual Project - Project Pokemon
+# Individual Project - Pokémon Project
 
 <img height="150" src="./pokemon.png" />
 
 ## Descripción del Proyecto
 
 
-El proyecto "Henry Pokemon" es una aplicación completa desarrollada con tecnologías modernas como React, Redux, Node y Sequelize. El objetivo principal de este proyecto individual fue consolidar y conectar los conocimientos adquiridos a lo largo de la carrera en el Bootcamp de Henry, aplicando mejores prácticas y utilizando un flujo de trabajo eficiente con GIT.
+El proyecto "Pokémon Project" es una aplicación completa desarrollada con tecnologías modernas como React, Redux, Node y Sequelize. El objetivo principal de este proyecto individual fue consolidar y conectar los conocimientos adquiridos a lo largo de la carrera en el Bootcamp de Henry, aplicando mejores prácticas y utilizando un flujo de trabajo eficiente con GIT.
 
 ## Duración del proyecto
 
