@@ -46,7 +46,6 @@ Se realizó un modelo de base de datos utilizando Sequelize y PostgreSQL, la cua
 
 - [ ] Pokemon: Con propiedades como ID, Nombre, Vida, Ataque, Defensa, Velocidad, Altura y Peso.
 
-La relación entre Pokemon y Tipo es de muchos a muchos, permitiendo que un pokemon pertenezca a más de un tipo y viceversa.
 
 
   
